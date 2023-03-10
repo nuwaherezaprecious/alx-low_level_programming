@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /***
- * main - print its name
+ * main - Entry point
+ * main: print its name
  * @argc: argument count
  * @argv: argument value
  *
