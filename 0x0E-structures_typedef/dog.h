@@ -1,5 +1,6 @@
 #ifndef _HEADER_
 #define _HEADER_
+#define struct dog dog_t
 
 /**
  * struct dog - dog attributes
