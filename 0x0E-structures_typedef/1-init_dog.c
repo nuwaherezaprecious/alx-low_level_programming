@@ -3,7 +3,6 @@
 
 /**
  * init_dog - initializes the dog structure
- * @init_dog: ...
  * @d: dog structure
  * @name: dog name
  * @age: age of the dog
